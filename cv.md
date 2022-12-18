@@ -1,4 +1,5 @@
 https://stanleyzucrystal.github.io/rsschool-cv/
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -8,15 +9,15 @@ https://stanleyzucrystal.github.io/rsschool-cv/
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CV</title>
     <link rel="stylesheet" href="style.css">
-    <link rel="icon" href="img/rs_school_js.svg">
-    <link rel="projects" href="/project/index2.html">
+    <link rel="icon" href="./img/rs_school_js.svg">
+    <link rel="projects" href="./project/index2.html">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel="stylesheet">
 </head>
 
 <body>
-    <img class="photo" src="img/image.jpg" alt="my photo">
+    <img class="photo" src="./img/image.jpg" alt="my photo">
     <header class="header">
         <div class="container">
             <nav class="nav">
@@ -102,7 +103,7 @@ https://stanleyzucrystal.github.io/rsschool-cv/
         </div>
         <div class="projects-info">
             <h2 class="section-tittle" id="projects">Projects:</h2>
-            <a href="/project/index2.html">My project</a>
+            <a href="./project/index2.html">My project</a>
         </div>
         <div class="english">
             <h2 class="section-tittle" id="english">English:</h2>
@@ -118,7 +119,7 @@ https://stanleyzucrystal.github.io/rsschool-cv/
                 <a href="https://github.com/stanleyzucrystal">
                     <p>© 2022 Ilya Stanleymon</p>
                 </a>
-                <a class="logo" href="https://rs.school/js/"><img src="img/rs_school_js.svg" alt="logo"
+                <a class="logo" href="https://rs.school/js/"><img src="./img/rs_school_js.svg" alt="logo"
                         class="logo"></a>
             </div>
         </div>
