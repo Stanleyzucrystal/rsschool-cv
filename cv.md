@@ -1,5 +1,3 @@
-https://stanleyzucrystal.github.io/rsschool-cv/
-
 <!DOCTYPE html>
 <html lang="en">
 
