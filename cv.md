@@ -101,7 +101,7 @@
         </div>
         <div class="projects-info">
             <h2 class="section-tittle" id="projects">Projects:</h2>
-            <a href="./project/index2.html">My project</a>
+            <a href="https://stanleyzucrystal.github.io/rsschool-cv/">My project</a>
         </div>
         <div class="english">
             <h2 class="section-tittle" id="english">English:</h2>
